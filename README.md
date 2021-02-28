@@ -1,0 +1,2 @@
+# hackercoin
+hackercoin
